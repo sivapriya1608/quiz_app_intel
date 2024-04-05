@@ -12,7 +12,8 @@ Welcome to the Student Assist repository! This collection of Python scripts cove
 ## Demonstration Video
 
 
-https://github.com/sivapriya1608/quiz_app_intel/assets/149949660/7ed87d61-201d-42b3-8926-17d855744978
+https://github.com/sivapriya1608/quiz_app_intel/assets/149949660/a46f1734-a258-43c7-ba30-26f3cb00511d
+
 
 
 ---
