@@ -60,7 +60,8 @@ This script fine-tunes a QA model using the SQuAD dataset and evaluates performa
 3. Review output for inference times and speedup comparisons.
 
 ### Benchmarking Results
-![Benchmarking Results](https://github.com/sivapriya1608/quiz_app_intel/assets/149949660/b15f2874-40c1-4315-9563-2d423c7ae496)
+![Benchmarking Results](https://github.com/sivapriya1608/quiz_app_intel/assets/149949660/aa4c5a0f-df7e-4597-90ab-c75262660d8d)
+![download](https://github.com/sivapriya1608/quiz_app_intel/assets/149949660/efd48147-5fe5-4bd0-bf83-306267491496)
 
 ---
 
@@ -94,8 +95,7 @@ This script fine-tunes a T5 model on the `billsum` dataset for text summarizatio
 2. Compare inference performance between FP32 and BF16.
 
 ### Benchmarking Results
-![Benchmarking Results](https://github.com/sivapriya1608/quiz_app_intel/assets/149949660/aa4c5a0f-df7e-4597-90ab-c75262660d8d)
-![download](https://github.com/sivapriya1608/quiz_app_intel/assets/149949660/efd48147-5fe5-4bd0-bf83-306267491496)
+![Benchmarking Results](https://github.com/sivapriya1608/quiz_app_intel/assets/149949660/b15f2874-40c1-4315-9563-2d423c7ae496)
 
 ---
 
